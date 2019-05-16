@@ -7,13 +7,13 @@ A list of short projects done which were found within DataCamp's website. Intend
 
 * [**Dr. Semmelweis and the Discovery of Handwashing**](https://github.com/abandlap/Data-Science-Portfolio/blob/master/DataCamp%20Projects/handwashing_project.ipynb) - Reanalyzing the data that made Semmelweis discover the importance of handwashing.<br>
 **Libraries:** Pandas
-<br>
+
 * [**Exploring 67 Years of Lego**](https://github.com/abandlap/Data-Science-Portfolio/blob/master/DataCamp%20Projects/lego_project.ipynb) - Exploring a database of every LEGO set ever built.<br>
 **Libraries:** Pandas
-<br>
+
 * **Gender Prediction Using Sound** - Analyze the gender distribution of children's book writers and use sound to match names to gender.<br>
 **Libraries:** Pandas, Numpy, Matplotlib, Fuzzy
-<br>
+
 
 ## Other Projects
 Longer projects done as a part of my Post Grad Diploma course in Data Science from International Institute of Information Technology, Bangalore.
