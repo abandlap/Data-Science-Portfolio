@@ -18,5 +18,5 @@ A list of short projects done which were found within DataCamp's website. These 
 ## Projects from Post Grad Diploma in Data Science
 Longer projects done as a part of my Post Grad Diploma course in Data Science from International Institute of Information Technology, Bangalore.
 
-* **GDP Analysis - Indian States** - Analyzing the GDP information of every state and union territory of India in the context of industry and education.<br>
+* [**GDP Analysis - Indian States**](https://github.com/abandlap/Data-Science-Portfolio/blob/master/Post%20Grad%20Diploma/GDP_analysis_project.ipynb) - Analyzing the economic development of Indian States in the context of industry and education drop out rates. <br>
 **Libraries:** Numpy, Pandas, Matplotlib, Seaborn
