@@ -20,3 +20,6 @@ Longer projects done as a part of my Post Grad Diploma course in Data Science fr
 
 * [**GDP Analysis - Indian States**](https://github.com/abandlap/Data-Science-Portfolio/blob/master/Post%20Grad%20Diploma/GDP_analysis_project.ipynb) - Analyzing the economic development of Indian States in the context of industry and education drop out rates. <br>
 **Libraries:** Numpy, Pandas, Matplotlib, Seaborn
+
+* [**Credit EDA - Loan Default**](https://github.com/abandlap/Data-Science-Portfolio/blob/master/Post%20Grad%20Diploma/Credit_EDA_project.ipynb) - Analyzing loan applications to identify patterns and driving factors behind loan default. <br>
+**Libraries:** Numpy, Pandas, Matplotlib, Seaborn
