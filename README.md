@@ -11,6 +11,9 @@ A list of short projects done which were found within DataCamp's website. These 
 * [**Exploring 67 Years of Lego**](https://github.com/abandlap/Data-Science-Portfolio/blob/master/DataCamp%20Projects/lego_project.ipynb) - Exploring a database of every LEGO set ever built.<br>
 **Libraries:** Pandas
 
+* [**Exploring the Bitcoin Cryptocurrency Market**](https://github.com/abandlap/Data-Science-Portfolio/blob/master/DataCamp%20Projects/bitcoin_marketcap_project.ipynb) - Exploring market capitalization of Bitcoin and other cryptocurrencies.<br>
+**Libraries:** Pandas, Matplotlib
+
 * [**Gender Prediction Using Sound**](https://github.com/abandlap/Data-Science-Portfolio/blob/master/DataCamp%20Projects/gender_prediction_project.ipynb) - Analyzing the gender distribution of best selling children's book writers and using a phonetic algorithm to predict their gender based on their name.<br>
 **Libraries:** Pandas, Numpy, Matplotlib, Fuzzy
 
