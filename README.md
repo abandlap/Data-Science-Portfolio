@@ -2,6 +2,18 @@
 This portfolio is a repository of all the projects I've done in the realm of data science.
 As I'm currently studying Data Science, these projects vary in length, complexity, and are a reflection of my learning curve. These projects primarily demonstrate my skills in Data Cleaning, Exploratory Data Analysis, Data Visualizations, Machine Learning, and Communication.
 
+## Projects from Post Grad Diploma in Data Science
+Longer projects done as a part of my Post Grad Diploma course in Data Science from International Institute of Information Technology, Bangalore.
+
+* [**GDP Analysis - Indian States**](https://github.com/abandlap/Data-Science-Portfolio/blob/master/Post%20Grad%20Diploma/GDP_analysis_project.ipynb) - Analyzing the economic development of Indian States in the context of industry and education drop out rates. <br>
+**Libraries:** Numpy, Pandas, Matplotlib, Seaborn
+
+* [**Credit EDA - Loan Default**](https://github.com/abandlap/Data-Science-Portfolio/blob/master/Post%20Grad%20Diploma/Credit_EDA_project.ipynb) - Analyzing loan applications to identify patterns and driving factors behind loan default. <br>
+**Libraries:** Numpy, Pandas, Matplotlib, Seaborn
+
+* [**Car Price Prediction**](https://github.com/abandlap/Data-Science-Portfolio/blob/master/Post%20Grad%20Diploma/Car_Price_Prediction_project.ipynb) - Built a linear regression model to predict pricing of cars in the American market. <br>
+**Libraries:** Numpy, Pandas, Matplotlib, Seaborn, Statsmodels, Scikit-Learn
+
 ## DataCamp Projects
 A list of short projects done which were found within DataCamp's website. These projects were intended for practice and provided me with an inital exposure to Data Science Projects.
 
@@ -16,13 +28,3 @@ A list of short projects done which were found within DataCamp's website. These 
 
 * [**Gender Prediction Using Sound**](https://github.com/abandlap/Data-Science-Portfolio/blob/master/DataCamp%20Projects/gender_prediction_project.ipynb) - Analyzing the gender distribution of best selling children's book writers and using a phonetic algorithm to predict their gender based on their name.<br>
 **Libraries:** Pandas, Numpy, Matplotlib, Fuzzy
-
-
-## Projects from Post Grad Diploma in Data Science
-Longer projects done as a part of my Post Grad Diploma course in Data Science from International Institute of Information Technology, Bangalore.
-
-* [**GDP Analysis - Indian States**](https://github.com/abandlap/Data-Science-Portfolio/blob/master/Post%20Grad%20Diploma/GDP_analysis_project.ipynb) - Analyzing the economic development of Indian States in the context of industry and education drop out rates. <br>
-**Libraries:** Numpy, Pandas, Matplotlib, Seaborn
-
-* [**Credit EDA - Loan Default**](https://github.com/abandlap/Data-Science-Portfolio/blob/master/Post%20Grad%20Diploma/Credit_EDA_project.ipynb) - Analyzing loan applications to identify patterns and driving factors behind loan default. <br>
-**Libraries:** Numpy, Pandas, Matplotlib, Seaborn
