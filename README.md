@@ -14,7 +14,7 @@ Longer projects done as a part of my Post Grad Diploma course in Data Science fr
 * [**Car Price Prediction**](https://github.com/abandlap/Data-Science-Portfolio/blob/master/Post%20Grad%20Diploma/Car_Price_Prediction_project.ipynb) - Built a linear regression model to predict pricing of cars in the American market. <br>
 **Libraries:** Numpy, Pandas, Matplotlib, Seaborn, Statsmodels, Scikit-Learn
 
-* [**Clustering Countries by Socio-Economic Factors**](https://github.com/abandlap/Data-Science-Portfolio/blob/master/Post%20Grad%20Diploma/Clustering_Countries.ipynb) - Used PCA and Clustering methods to build clusters based on socio-economic factors. <br>
+* [**Clustering Countries by Socio-Economic Factors**](https://github.com/abandlap/Data-Science-Portfolio/blob/master/Post%20Grad%20Diploma/Clustering_Countries_project.ipynb) - Used PCA and Clustering methods to build clusters based on socio-economic factors. <br>
 **Libraries:** Numpy, Pandas, Matplotlib, Seaborn, Statsmodels, Scikit-Learn, Scipy
 
 * [**Lead Scoring Project**](https://github.com/abandlap/Data-Science-Portfolio/blob/master/Post%20Grad%20Diploma/Lead_Score_project.ipynb) - Built a logistic regression model to identify the most promising leads and assigning a lead score for every lead. <br>
