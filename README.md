@@ -5,6 +5,9 @@ As I'm currently studying Data Science, these projects vary in length, complexit
 ## Projects from Post Grad Diploma in Data Science
 Main projects done as a part of my Post Grad Diploma course in Data Science from International Institute of Information Technology, Bangalore.
 
+* [**Hand Gesture Recognition for Smart TV's**](https://github.com/abandlap/Data-Science-Portfolio/blob/master/Post%20Grad%20Diploma/Hand_Gesture_Recognition_TV_project_part1.ipynb) - Built a neural network to identify 5 hand gestures to allow the user to control his/her smart TV. <br>
+**Libraries:** Numpy, Scipy, Keras, TensorFlow
+
 * [**Churn Prediction of Telecom Customers**](https://github.com/abandlap/Data-Science-Portfolio/blob/master/Post%20Grad%20Diploma/Telecom_Customer_Churn_project.ipynb) - Built various models (Logistic Regression, SVM, Random Forest, Decision Tree) to analyze customer level data to identify customers at high risk of churn and the main indicators behind customer churn. <br>
 **Libraries:** Numpy, Pandas, Matplotlib, Seaborn, Math, Scikit-Learn, Graphviz, Pydotplus
 
